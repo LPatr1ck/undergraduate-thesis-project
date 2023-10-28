@@ -1,0 +1,20 @@
+.titludespre{
+    margin-top: 30px;
+    text-align: center;
+    color: rebeccapurple;
+    border: 2px solid rebeccapurple;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.despre{
+    border: 2px solid rebeccapurple;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}

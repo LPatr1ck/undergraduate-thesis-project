@@ -1,0 +1,96 @@
+.ListContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.ListWrap {
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    gap: 15px;
+}
+
+.ListSearch {
+    flex: 1;
+    background-color: rebeccapurple;
+    padding: 10px;
+    border-radius: 8px;
+    position: sticky;
+    height: max-content;
+    top: 15px
+}
+
+.ListResult {
+    flex: 3;
+}
+
+.LSTitle {
+    font-size: 23px;
+    color: white;
+    margin-bottom: 12px;
+}
+
+.LSOptionText{
+    color: white;
+}
+
+.ListItem {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.ListItem>label {
+    font-size: 16px;
+}
+
+.ListItem>input {
+    height: 32px;
+    border: none;
+    padding: 6px;
+}
+
+.ListItem>span {
+    height: 32px;
+    padding: 6px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.LSOptionItem {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    color: white;
+    font-size: 13px;
+}
+
+.LSOptionInput {
+    border-radius: 4px;
+    width: 70px;
+}
+
+.LSOptions {
+    padding: 10px;
+}
+
+.ListSearch>button {
+    padding: 10px;
+    background-color: rebeccapurple;
+    color: white;
+    border: none;
+    width: 100%;
+    font-weight: 400;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.ListSearch>button:hover {
+    background-color: white;
+    color: rebeccapurple;
+}

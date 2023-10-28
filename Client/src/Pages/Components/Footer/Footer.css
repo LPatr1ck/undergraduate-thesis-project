@@ -1,0 +1,32 @@
+.Footer {
+    align-items: center;
+    position: relative;
+    width: 100%;
+    width: 1024px;
+    font-size: 15px;
+}
+
+.FooterLists {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.FooterList {
+    list-style: none;
+    padding: 0;
+}
+
+.FooterListItem {
+    margin-bottom: 10px;
+    color: rebeccapurple;
+    cursor: pointer;
+}
+
+.FooterTextCopy{
+    color: rebeccapurple;
+    font-size: small;
+    text-align: center;
+}

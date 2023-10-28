@@ -1,0 +1,45 @@
+.FeatureHotels {
+    width: 100%;
+    max-width: 60%;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.FeatureHotelItem {
+    flex: 1;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.FeatureHotelImage {
+    border-radius: 6px;
+    width: 100%;
+}
+
+.FPName {
+    font-weight: bold;
+}
+
+.FPOras {
+    font-weight: 150;
+}
+
+.FPPret {
+    font-size: 120;
+    font-weight: 600;
+}
+
+.FPRating>button {
+    background-color: rebeccapurple;
+    color: white;
+    border: none;
+    padding: 4px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.FPRating>span {
+    font-size: 50;
+}

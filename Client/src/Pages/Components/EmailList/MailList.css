@@ -1,0 +1,31 @@
+.Mail {
+    width: 100%;
+    margin-top: 30px;
+    background-color: rebeccapurple;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.MailInputContainerSearch {
+    width: 300px;
+    height: 30px;
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+    border-radius: 4px;
+}
+
+.MailInputContainer {
+    height: 50px;
+    background-color: white;
+    border: none;
+    color: rebeccapurple;
+    font-weight: 600;
+    border-radius: 4px;
+    cursor: pointer;
+}

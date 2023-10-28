@@ -1,0 +1,58 @@
+.attractions-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  
+  .search-bar input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid rebeccapurple;
+    outline: none;
+  }
+  
+  .attractions-list {
+    flex-wrap: wrap;
+    position: absolute;
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    padding-bottom: 100px;
+  }
+  
+  .attraction-card {
+    width: calc(33.33% - 10px);
+    border: 1px solid rebeccapurple;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .attraction-card h2 {
+    font-size: 20px;
+    margin-top: 0;
+  }
+  
+  .attraction-card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .attraction-card p {
+    font-size: 16px;
+    margin: 0;
+  }
+
+  
+  
