@@ -1,6 +1,6 @@
 **Undergraduate Thesis Project - Development of a Hotel Booking and Reservation System**
 
-This undergraduate thesis project represents the culmination of my academic journey in computer science. The primary focus of this project is the design and implementation of a comprehensive Hotel Booking and Reservation System, which has been developed from the ground up, catering to the specific requirements of the hospitality industry.
+This undergraduate thesis project marks the culmination of my academic journey in computer science. The primary focus of the project is the design and implementation of a comprehensive Hotel Booking and Reservation System, developed from scratch to meet the specific needs of the hospitality industry.
 
 **Project Overview:**
 
